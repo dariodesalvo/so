@@ -1,0 +1,7 @@
+[INFO] 17:04:05:090 Servidor/(1094:1094): Servidor listo para recibir al cli3nt3
+[INFO] 17:04:28:737 Servidor/(1094:1094): Se conecto un cliente!
+[INFO] 17:04:28:738 Servidor/(1094:1094): Me llego el mensaje valor
+[INFO] 17:04:34:814 Servidor/(1094:1094): Me llegaron los siguientes valores:
+
+[INFO] 17:04:34:816 Servidor/(1094:1094): paquete armado
+[ERROR] 17:04:34:816 Servidor/(1094:1094): el cliente se desconecto. Terminando servidor
